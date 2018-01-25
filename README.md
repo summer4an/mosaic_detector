@@ -9,6 +9,8 @@ Then do below for mosaic detect.
 * ./102_mozaiku_kensyutu.py sample_many_mozaic.jpg
 
 Sample sample_many_mozaic.jpg is below.
+(original picture from http://gahag.net/011032-cat-sunflower-smell/)
+
 ![sample](/102_mosaic_detector/sample_many_mozaic.jpg)
 
 You can see result as output_result.png.
